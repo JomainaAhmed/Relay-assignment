@@ -135,7 +135,6 @@ To audit and recompute Tables 1, 2a, 2b, and 3 from `results.csv`:
 ```bash
 python generate_tables.py
 ```
-
 ---
 
 ## 📁 Repository Structure
